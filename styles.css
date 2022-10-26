@@ -1,0 +1,130 @@
+#empr-cont div img{
+    width: 3.5em;
+    
+}
+
+#trabaj-cont div img{
+    width: 3.5em; 
+}
+
+#coins-cont div img{
+    width: 2em; 
+}
+
+#natu-cont div img{
+    width: 140px;
+}
+
+#chiquitos-nat div img{
+    width: 60px;
+}
+
+#petrol img{
+    width: 200px;
+}
+
+#world img{
+    width: 200px;
+}
+
+#emp-1 {
+    position: absolute;
+    top:50px;
+    left: 90px;
+}
+#emp-2 {
+    position: absolute;
+    top:80px;
+    left: 140px;
+}
+#emp-3 {
+    position: absolute;
+    top:80px;
+    left: 40px;
+}
+#emp-4 {
+    position: absolute;
+    top:180px;
+    left: 70px;
+}
+#emp-5 {
+    position: absolute;
+    top:200px;
+    left: 160px;
+}
+#oro{
+    position: absolute;
+    top:140px;
+    left: 200px;
+}
+#money{
+    position: absolute;
+    top:200px;
+    left: 240px;
+}
+#arbol{
+    position: absolute;
+    top:370px;
+    left: 50px;
+}
+#arbol-seco-1{
+    position: absolute;
+    top:340px;
+    left: 200px;
+}
+#arbol-seco-2{
+    position: absolute;
+    top:340px;
+    left: 300px;
+}
+#tronco-1{
+    position: absolute;
+    top:550px;
+    left: 100px;
+}
+#tronco-2{
+    position: absolute;
+    top:570px;
+    left: 160px;
+}
+#tronco-3{
+    position: absolute;
+    top:580px;
+    left: 220px;
+}
+#tronco-4{
+    position: absolute;
+    top:610px;
+    left: 100px;
+}
+
+#tronco-4{
+    position: absolute;
+    top:610px;
+    left: 100px;
+}
+
+#pez-1{
+    position: absolute;
+    top:610px;
+    left: 280px;
+}
+
+#pez-2{
+    position: absolute;
+    top:610px;
+    left: 200px;
+}
+
+#craneo{
+    position: absolute;
+    top:550px;
+    left: 350px;
+}
+
+#petrol{
+    position: absolute;
+    top:100px;
+    left: 40%;
+}
+
