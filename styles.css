@@ -125,6 +125,11 @@
 #petrol{
     position: absolute;
     top:100px;
-    left: 40%;
+    left: 600px;
 }
 
+#world{
+    position: absolute;
+    top:100px;
+    left: 1000px;
+}
